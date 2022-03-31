@@ -1,0 +1,15 @@
+body, html{
+    display: block;
+    margin: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+#gameScreen{
+    width: inherit;
+    height: inherit;
+}
+
+.first{
+    background-image: url(../Images/grey_font.jpg);
+}
